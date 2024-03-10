@@ -14,8 +14,9 @@ public class ValidParentheses {
             int i = 0;
             while (flag == true && i < s.length()) {
                 char x = s.charAt(i);
-                if (x == '(' || x == '[' || x == '{') parantheses.push(x);
-                else if (x == ')' && (!parantheses.empty() && parantheses.peek() == '(')) {
+                if (x == '(' || x == '[' || x == '{') {
+                    parantheses.push(x);
+                } else if (x == ')' && (!parantheses.empty() && parantheses.peek() == '(')) {
                     parantheses.pop();
                 } else if (x == ']' && (!parantheses.empty() && parantheses.peek() == '[')) {
                     parantheses.pop();
@@ -29,7 +30,6 @@ public class ValidParentheses {
             if (!parantheses.empty()) {
                 flag = false;
             }
-
         }
         return flag;
     }

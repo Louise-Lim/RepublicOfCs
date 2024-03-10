@@ -1,5 +1,8 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ÿÿÿÿÿ
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(æÌ†Ãşÿÿÿÿ8×Õèâ1
-W	java:S125"<This block of commented-out lines of code should be removed.(Šë¦8ÙÕèâ1
+L
+java:S1066"/Merge this if statement with the enclosing one.(Ï‹Š8Ù„ŠÂâ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ÿÿÿÿÿ8Ú„ŠÂâ1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ8ş„ŠÂâ1
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¸«À»8€…ŠÂâ1

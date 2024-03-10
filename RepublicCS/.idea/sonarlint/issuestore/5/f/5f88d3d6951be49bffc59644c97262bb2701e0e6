@@ -1,10 +1,10 @@
 
 {
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êªØ¹şÿÿÿÿ8ÓÍ—•â1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ÿÿÿÿÿ8ÕÍ—•â1
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êªØ¹şÿÿÿÿ8”ºçÀâ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ÿÿÿÿÿ8•ºçÀâ1
 r
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(êªØ¹şÿÿÿÿ8ÉÎ—•â1
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(êªØ¹şÿÿÿÿ8ûºçÀâ1
 o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ñù£–8ËÎ—•â1
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ñù£–8üºçÀâ1
 D
-java:S1125"'Remove the unnecessary boolean literal.(û”ø»8ÌÎ—•â1
+java:S1125"'Remove the unnecessary boolean literal.(û”ø»8ıºçÀâ1

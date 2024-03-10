@@ -7,3 +7,5 @@ Y
 )src/main/java/Week1/Stack/StackQueue.java,3\4\34966cfa37ee9e26e5210201059b2143dbba3fc2
 W
 'src/main/java/Week1/Stack/Solution.java,a\e\ae0adcd82b2a1f3b85b93114c824f6e2b10cb6b2
+_
+/src/main/java/Week1/Stack/parenthesesScore.java,0\e\0e0930e6ca7cd3ea4ef36e7b870da80ba9600985

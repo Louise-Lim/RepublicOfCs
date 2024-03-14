@@ -9,3 +9,5 @@ W
 'src/main/java/Week1/Stack/Solution.java,a\e\ae0adcd82b2a1f3b85b93114c824f6e2b10cb6b2
 _
 /src/main/java/Week1/Stack/parenthesesScore.java,0\e\0e0930e6ca7cd3ea4ef36e7b870da80ba9600985
+^
+.src/main/java/Week1/DFS/preorderTraversal.java,6\a\6ac7a6065aa3fd3e3a96029967a346d34b923630
